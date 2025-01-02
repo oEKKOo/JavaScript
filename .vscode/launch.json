@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\12.31.1\\remainder.js"
+            "program": "${workspaceFolder}\\1.1.1\\guessgame.js"
         }
     ]
 }
